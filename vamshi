@@ -1,0 +1,5 @@
+git init
+git remote add https://github.com/vamshikrishna1812/github-upload.git
+git add.
+git commit -m "initializing repository"
+git push -u origin main
